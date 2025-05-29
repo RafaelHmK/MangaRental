@@ -136,6 +136,10 @@ A comunicação entre os componentes ocorre através de **REST APIs** e a persis
 
 ![Diagrama de Estados](Docs/Diagrama-de-Estados.png)
 
+## Modelo de Dados
+
+![Modelo de Dados](Docs/Modelo-de-Dados.png)
+
 ## Integrantes
   - Matheus Caetano Rocha
 
